@@ -18,8 +18,8 @@ public class electricalResistors {
 
         double straightResistance = FirstResistance + secondResistance;
         double parallelResistance = (1 / FirstResistance) + (1 / secondResistance );
-        System.out.println("the result straight Resistance : " + straightResistance );
-        System.out.println("the result parallel Resistance : " + parallelResistance );
+        System.out.println(" the result straight Resistance : " + straightResistance );
+        System.out.println(" the result parallel Resistance : " + parallelResistance );
 
     }
 
