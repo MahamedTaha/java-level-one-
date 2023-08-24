@@ -19,7 +19,7 @@ public class ReverseInput {
         inpute.nextLine();
         char[] x = new char[size];
         char[] y = new char[size];
-
+        
         for (int i = 0; i < size; i++) {
 
             String str = inpute.nextLine();
